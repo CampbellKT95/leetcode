@@ -1,0 +1,15 @@
+/Users/kadincampbell/Desktop/leetcode/leetcode/obj/Debug/net6.0/leetcode.csproj.AssemblyReference.cache
+/Users/kadincampbell/Desktop/leetcode/leetcode/obj/Debug/net6.0/leetcode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kadincampbell/Desktop/leetcode/leetcode/obj/Debug/net6.0/leetcode.AssemblyInfoInputs.cache
+/Users/kadincampbell/Desktop/leetcode/leetcode/obj/Debug/net6.0/leetcode.AssemblyInfo.cs
+/Users/kadincampbell/Desktop/leetcode/leetcode/obj/Debug/net6.0/leetcode.csproj.CoreCompileInputs.cache
+/Users/kadincampbell/Desktop/leetcode/leetcode/bin/Debug/net6.0/leetcode
+/Users/kadincampbell/Desktop/leetcode/leetcode/bin/Debug/net6.0/leetcode.deps.json
+/Users/kadincampbell/Desktop/leetcode/leetcode/bin/Debug/net6.0/leetcode.runtimeconfig.json
+/Users/kadincampbell/Desktop/leetcode/leetcode/bin/Debug/net6.0/leetcode.dll
+/Users/kadincampbell/Desktop/leetcode/leetcode/bin/Debug/net6.0/leetcode.pdb
+/Users/kadincampbell/Desktop/leetcode/leetcode/obj/Debug/net6.0/leetcode.dll
+/Users/kadincampbell/Desktop/leetcode/leetcode/obj/Debug/net6.0/refint/leetcode.dll
+/Users/kadincampbell/Desktop/leetcode/leetcode/obj/Debug/net6.0/leetcode.pdb
+/Users/kadincampbell/Desktop/leetcode/leetcode/obj/Debug/net6.0/leetcode.genruntimeconfig.cache
+/Users/kadincampbell/Desktop/leetcode/leetcode/obj/Debug/net6.0/ref/leetcode.dll
